@@ -106,3 +106,6 @@ lms40.iauec.ac.ir
 lms41.iauec.ac.ir
 lms42.iauec.ac.ir
 lms43.iauec.ac.ir
+class.shamsgonbad.ac.ir
+46.32.14.64
+http://46.32.14.64
